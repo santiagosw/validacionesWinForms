@@ -1,0 +1,10 @@
+C:\Users\Workspace Luxer\source\repos\ValidacionesWinForms\ValidacionesWinForms\bin\Debug\ValidacionesWinForms.exe.config
+C:\Users\Workspace Luxer\source\repos\ValidacionesWinForms\ValidacionesWinForms\bin\Debug\ValidacionesWinForms.exe
+C:\Users\Workspace Luxer\source\repos\ValidacionesWinForms\ValidacionesWinForms\bin\Debug\ValidacionesWinForms.pdb
+C:\Users\Workspace Luxer\source\repos\ValidacionesWinForms\ValidacionesWinForms\obj\Debug\ValidacionesWinForms.csproj.AssemblyReference.cache
+C:\Users\Workspace Luxer\source\repos\ValidacionesWinForms\ValidacionesWinForms\obj\Debug\ValidacionesWinForms.MainForm.resources
+C:\Users\Workspace Luxer\source\repos\ValidacionesWinForms\ValidacionesWinForms\obj\Debug\ValidacionesWinForms.Properties.Resources.resources
+C:\Users\Workspace Luxer\source\repos\ValidacionesWinForms\ValidacionesWinForms\obj\Debug\ValidacionesWinForms.csproj.GenerateResource.cache
+C:\Users\Workspace Luxer\source\repos\ValidacionesWinForms\ValidacionesWinForms\obj\Debug\ValidacionesWinForms.csproj.CoreCompileInputs.cache
+C:\Users\Workspace Luxer\source\repos\ValidacionesWinForms\ValidacionesWinForms\obj\Debug\ValidacionesWinForms.exe
+C:\Users\Workspace Luxer\source\repos\ValidacionesWinForms\ValidacionesWinForms\obj\Debug\ValidacionesWinForms.pdb
